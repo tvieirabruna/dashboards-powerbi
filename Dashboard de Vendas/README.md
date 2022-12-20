@@ -1,6 +1,6 @@
 # Dashboard de Vendas
 
-Dashboard de Vendas desenvolvido durante a aula intensiva de Power BI da Hashtag Treinamentos. A partir da planilha de dados no Excel, tratamentos os dados das seguintes formas:
+Dashboard de Vendas desenvolvido durante a aula intensiva de Power BI da Hashtag Treinamentos. A partir da planilha de dados no Excel, fiz o tratamento dos dados da seguinte forma:
 
 1. Exclusão da última coluna no Power Query, que estava vazia;
 2. Remoção de linhas vazias;
@@ -27,4 +27,4 @@ Além das informações geradas pelos visuais per se, é possível analisar os d
 - Produto mais vendido em um continente;
 - Faturamento da marca em um continente;
 
-No arquivo em PDF, está disponibilizada a Dashboard completa com todos os visuais (salvo o mapa, que não está mais carregando).
+No arquivo em PDF, está disponibilizado o relatório completo com todos os visuais (salvo o mapa, que não está mais carregando).
