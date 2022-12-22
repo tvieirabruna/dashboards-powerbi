@@ -33,3 +33,5 @@ Assim, além das informações dadas pelos visuais per se, é possível analisar
 - Total de contratações, demissões e turnover em um ano.
 
 No arquivo em PDF, está disponibilizado o relatório completo com todos os visuais. A imagem em PNG mostra a visualização do Tooltip sobre a Dashboard.
+
+![Dashboard de RH](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20de%20RH/Dashboard%20de%20RH.png)
