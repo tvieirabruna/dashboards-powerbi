@@ -33,4 +33,4 @@ Desse modo, além das informações dadas pelos visuais per se, é possível ana
 
 No arquivo em PDF, está disponibilizado o relatório completo com todos os visuais. A imagem em PNG mostra os visuais quando um operador é selecionado.
 
-![Dashboard de Produção](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dahsboard%20de%20Produ%C3%A7%C3%A3o/Dashboard%20de%20Produ%C3%A7%C3%A3o.png)
+![Dashboard de Produção](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20de%20Produ%C3%A7%C3%A3o/Dashboard%20de%20Produ%C3%A7%C3%A3o.png)
