@@ -10,7 +10,7 @@ Dashboard Financeiro desenvolvido durante a aula intensiva de Power BI da Hashta
 6. Margem auxiliar;
 7. Total de Movimentações;
 8. Transações via PIX;
-9. % Transaões via PIX;
+9. % Transações via PIX;
 10. Desvio da meta.
 
 A partir das medidas e dados, foram construídos os visuais:
