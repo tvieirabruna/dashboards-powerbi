@@ -6,3 +6,4 @@ Repositório de Dashboards criados por mim no Power BI. Cada pasta contém um Da
 - [Dashboard de Vendas](https://github.com/Brubsy/dashboards-powerbi/tree/main/Dashboard%20de%20Vendas)
 - [Dashboard de Produção](https://github.com/Brubsy/dashboards-powerbi/tree/main/Dashboard%20de%20Produ%C3%A7%C3%A3o)
 - [Dashboard de RH](https://github.com/Brubsy/dashboards-powerbi/tree/main/Dashboard%20de%20RH)
+- [Dashboard Financeiro](https://github.com/Brubsy/dashboards-powerbi/tree/main/Dashboard%20Financeiro)
