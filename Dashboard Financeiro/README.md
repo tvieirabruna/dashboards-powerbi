@@ -35,4 +35,4 @@ Assim, além das informações dadas pelos visuais per se, é possível analisar
 
 No arquivo em PDF, está disponibilizado o relatório completo com todos os visuais. A imagem em JPE mostra a visualização do Dashboard tendo selecionado o banco Bradesco e o ano de 2021.
 
-![Dashboard Financeiro]([https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20de%20RH/Dashboard%20de%20RH.png](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20Financeiro/Dashboard%20Financeiro.JPG))
+![Dashboard Financeiro]([https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20de%20RH/Dashboard%20de%20RH.png](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20Financeiro/Dashboard%20Financeiro.JPG)
