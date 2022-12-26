@@ -33,6 +33,6 @@ Assim, além das informações dadas pelos visuais per se, é possível analisar
 - Total de transações e transações via PIX de um banco em um ano;
 - Margem de um banco por município.
 
-No arquivo em PDF, está disponibilizado o relatório completo com todos os visuais. A imagem em JPE mostra a visualização do Dashboard tendo selecionado o banco Bradesco e o ano de 2021.
+No arquivo em PDF, está disponibilizado o relatório completo com todos os visuais. A imagem em JPG mostra a visualização do Dashboard tendo selecionado o banco Bradesco e o ano de 2021.
 
 ![Dashboard Financeiro](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20Financeiro/Dashboard%20Financeiro.JPG)
