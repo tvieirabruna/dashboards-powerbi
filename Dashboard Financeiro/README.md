@@ -73,5 +73,5 @@ Thus, in addition to the information provided by the visuals per se, it is possi
 - Revenue, expenses, tax, and profit of a bank
 - Total transactions and PIX transactions of a bank in a year
 - Margin of a bank by municipality
-- 
+
 In the PDF file, the complete report with all visuals is available. The JPG image shows the Dashboard visualization with Bradesco bank and the year 2021 selected.
