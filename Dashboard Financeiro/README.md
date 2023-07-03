@@ -75,3 +75,6 @@ Thus, in addition to the information provided by the visuals per se, it is possi
 - Margin of a bank by municipality
 
 In the PDF file, the complete report with all visuals is available. The JPG image shows the Dashboard visualization with Bradesco bank and the year 2021 selected.
+
+![Financial Dashboard](https://github.com/Brubsy/dashboards-powerbi/blob/main/Dashboard%20Financeiro/Dashboard%20Financeiro.JPG)
+
